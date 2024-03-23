@@ -2,6 +2,7 @@
 Small extension for quickly rotating yours video playing on google photos site.
 
 I'm not sure how many other people have had this problem, but seeing a straightforward remedy worked made me feel rather relieved.
+
 Problem: When filming a video on a smartphone, we frequently turn the phone at odd angles and discover afterwards that some of the footage has to have its device orientation adjusted for better viewing. It is undoubtedly challenging to accomplish this on a website that is often accessed on a large display or gadget. Consequently, an chrome extension seemed to be a good option for a solution.
 
 Not yet published!
