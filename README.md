@@ -1,4 +1,4 @@
-# Miscellaneous
+# Google Photos video-player rotator chrome extension
 Small extension for quickly rotating yours video playing on google photos site.
 
 I'm not sure how many other people have had this problem, but seeing a straightforward remedy worked made me feel rather relieved.
